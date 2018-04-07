@@ -1,0 +1,21 @@
+$(document).ready(function() {
+  // $('.work_header').hide();
+  // $('.work_header_back_text').hide()
+  // $('.work_header_front_text').hide();
+  // $('.work_header_front_text_right').hide();
+
+  // $('.contact_header_back_text').fadeIn(250);
+  $('#dark').fadeOut(700);
+  $('.work_header_back_text').animate(250);
+  setTimeout(function() {
+    // $('.contact_header_front_text').fadeIn();
+    $('.work_header_front_text').animate({opacity:1});
+    // if($(window).width() < 770) {
+    //   console.log("small")
+    // }
+    // else {
+      $('.work_header_front_text_left').addClass('fade_in_left');
+      $('.work_header_front_text_right').addClass('fade_in_right');
+    // }
+  },700);
+})
