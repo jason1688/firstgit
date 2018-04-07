@@ -1,0 +1,327 @@
+/* Videp Co. -- Jason 2018(c) */
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    background: #fff;
+    color: #000
+}
+
+
+:root {
+    --main-bg-color: yellow;
+    --main-bg-image: url(../img/bg-fflavour-taiwan-豐味果品.jpg);
+    --inner-bg-image: url(../img/bg-fflavour-taiwan-豐味果品-inner.jpg);
+}
+
+
+.body {
+    position: relative;
+    font-size: 14px;
+    font-family: "微軟正黑體", Aria, Helvetica, Sans-serif;
+    height: auto;
+}
+
+
+
+
+
+
+
+/*首頁背景設定*/
+
+.bodyhome {
+    margin: 0;
+    display: block;
+    /*position: fixed;*/
+    left: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    opacity: 1;
+    background-image: var(--main-bg-image);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+
+
+
+
+
+
+
+/*內頁背景設定*/
+
+.bodyinner {
+    margin: 0 display: block;
+    position: fixed;
+    left: 0;
+    top: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    opacity: 1;
+    background: url(../img/bg-fflavour-taiwan-豐味果品-inner.jpg) top center no-repeat;
+}
+
+
+
+/**
+ * boostrap icon
+ */
+
+
+/* .glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.glyphicon-user:before {
+  content: "\e008";
+}
+
+.glyphicon-shopping-cart:before {
+  content: "\e116";
+} */
+
+
+/*
+ * Style
+ */
+
+a,
+.uk-link {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover,
+.uk-link:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#vd-a #vd-a:active #vd-a:link {
+    text-decoration: none;
+    color: #000;
+    letter-spacing: 1px;
+    margin: 0px 5px;
+    text-align: center;
+}
+
+#vd-a:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #9A7E57;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.hover-item {
+    text-decoration: none;
+    color: #000;
+    /* letter-spacing: 1px; */
+    margin: 0px 5px;
+    text-align: center;
+}
+
+.hover-item:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #9A7E57;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+.hover-li {
+    text-decoration: none;
+    color: #ccc;
+    /* letter-spacing: 1px;
+    margin: 0px 5px;
+    text-align: center; */
+}
+
+.hover-li:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: #404040;
+    /* padding: 5px;
+    border-radius: 6px; */
+}
+
+.highlight {
+    background-color: rgb(218, 165, 32);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.medium-font {
+    font-size: 18px;
+    color: black;
+    line-height: 20.8px;
+}
+
+.normal-font {
+    font-size: 16px;
+    color: black";
+ line-height: 20.8px;
+}
+
+.my-video {
+    /* max-width: 1200px; */
+    /* margin: 0 auto; */
+    /* padding: 30px; */
+    text-align: center;
+}
+
+.item-space {
+    padding: 30px;
+    text-align: center;
+}
+
+.example1 {
+    position: relative;
+    width: 50%;
+    left: 25%;
+    background-image: url(img_flwr.gif), url(paper.gif);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
+
+
+.one {
+    color: white;
+    background-color: var(--main-bg-color);
+    background-image: var(--main-bg-image);
+    background-position: right top;
+    background-repeat: repeat;
+    margin: 10px;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+
+.two {
+    color: white;
+    background-color: black;
+    margin: 10px;
+    width: 150px;
+    height: 70px;
+    display: inline-block;
+}
+
+.three {
+    color: white;
+    background-color: var(--main-bg-color);
+    margin: 10px;
+    width: 75px;
+}
+
+.four {
+    color: white;
+    background-color: var(--main-bg-color);
+    margin: 10px;
+    width: 100px;
+}
+
+.five {
+    background-color: var(--main-bg-color);
+}
+
+.logo-wrapper {
+    background-color: #E5E3E9;
+}
+
+.menu-wrapper {
+    background-color: #333233;
+    color: white;
+}
+
+.slideshow-wrapper {
+    background-color: #8BECE9;
+}
+
+.main-content {
+    background-color: #fff;
+    padding-top: 30px;
+}
+
+.uk-panel-title{
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.color-link {
+     color:red;
+     font-weight: bold;
+     /* pointer: hand; */
+}
+
+.icon-heading {
+    color: #29ABC8;
+    margin-right: 10px;
+}
+
+.readmore {
+    font-size: 85%;
+}
+
+/* 設定當滑鼠在區塊之上時，用顏色顯示 */
+.uk-panel-box-primary-hover:hover {
+  background-color: #F8F4C1;
+  color: #BFA708;
+}
+
+/* Border
+ ========================================================================== */
+.uk-border-circle {
+  border-radius: 50%;
+}
+.uk-border-rounded {
+  border-radius: 15px;
+}
+
+.uk-thumbnail {
+  /* 1 */
+  /* display: inline-block; */
+  /* 2 */
+  /* max-width: 100%; */
+  /* 3 */
+  /* box-sizing: border-box; */
+  /* 3 */
+  /* margin: 0; */
+  /* 4 */
+  padding: 6px;
+  border: 1px solid #ccc;
+  /* background: #fff; */
+  /* border-radius: 4px; */
+}
+
+/*.uk-panel-box-primary-hover:hover {
+  color: #0fff91;
+}*/
+
+#blur {
+    text-shadow: 5px 5px 5px black;
+    /* text-shadow: 2px 2px 5px black; */
+}
+
