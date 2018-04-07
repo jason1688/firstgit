@@ -28,7 +28,6 @@
 綜合酵素生物纖維面膜五片盒裝	mask5 $1999
 緊緻亮白雪凝乳 100ml			lotion100ml $1199
 
-
 $469	AvocadoEnzymeSoap, PopcornTeaSoap, rosesoap
 $499	mask
 $569	SilkSoap
@@ -57,7 +56,6 @@ SKU  是	FenlightBrown, FenBrown, FenDarkBrown, FenBlack, FenBlue
 應用	整個購物車給予固定金額折扣
 折扣金額 * 2199
 停止處理其他規則 不
-
 
 2018母親節特惠
 洗髮、潤絲、護髮套組
@@ -103,4 +101,8 @@ https://www.leefenint.com/
 =======
 https://www.leefenint.com/
 **********
+>>>>>>> cf45f7ce2d0a5acf2fec851321ddfdbaac087ab7>>>>>>> cf45f7ce2d0a5acf2fec851321ddfdbaac087ab7
+=======
+********** final
 >>>>>>> cf45f7ce2d0a5acf2fec851321ddfdbaac087ab7
+>>>>>>> 10d45f523bc22aa366ef0e8809f33ab106f1eca8
