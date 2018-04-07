@@ -1,0 +1,106 @@
+酒紅色Fen草本植物染100g			Fenredwine $699
+護髮粉Fen草本植物染100g			FenHairCarePowder $699
+淡褐色Fen草本植物染100g			FenlightBrown $969
+褐色Fen草本植物染100g			FenBrown
+深褐色Fen草本植物染100g			FenDarkBrown
+黑色Fen草本植物染100g			FenBlack
+藍色Fen草本植物染100g			FenBlue
+
+深層潔淨洗髮水500ml(贈精油)		shampoo $1299
+保濕柔順潤絲水600ml				conditioner $1599
+極耀滋潤護髮霜100ml				HairCareCream $2199
+
+滋潤酪梨酵素皂					AvocadoEnzymeSoap $469
+玄米酵素皂						PopcornTeaSoap $469
+玫瑰鹽皂						rosesoap $469
+蠶絲蛋白母乳皂					SilkSoap $569
+家事皂團						FamilySoap $799
+
+酒紅色Fen草本植物染200g			Fenredwine200g	$1199
+護髮粉Fen草本植物染200g			FenHairCarePowder200g
+淡褐色Fen草本植物染200g			FenlightBrown200g $1599
+褐色Fen草本植物染200g			FenBrown200g
+深褐色Fen草本植物染200g			FenDarkBrown200g
+黑色Fen草本植物染200g			FenBlack200g
+藍色Fen草本植物染200g			FenBlue200g
+
+綜合酵素生物纖維面膜			mask $499
+綜合酵素生物纖維面膜五片盒裝	mask5 $1999
+緊緻亮白雪凝乳 100ml			lotion100ml $1199
+
+
+$469	AvocadoEnzymeSoap, PopcornTeaSoap, rosesoap
+$499	mask
+$569	SilkSoap
+$699	Fenredwine, FenHairCarePowder
+$799	FamilySoap
+$969	FenlightBrown, FenBrown, FenDarkBrown, FenBlack, FenBlue
+$1199	Fenredwine200g, FenHairCarePowder200g, lotion100ml
+$1299	shampoo
+$1599	conditioner, FenlightBrown200g, FenBrown200g, FenDarkBrown200g, FenBlack200g, FenBlue200g
+$1999	mask5
+$2199	HairCareCream
+
+2018/04/4	2018/05/31	
+優先順序 555	564	573	582	591
+
+2018母親節特惠-同價格$2199買二送一**
+
+$2199	
+HairCareCream
+
+如果這些條件中的 全部 為 正確 :
+如果購物車中的產品次選擇 總量  等於或大於  3 ，而且符合以下 全部  條件:  
+SKU  是	FenlightBrown, FenBrown, FenDarkBrown, FenBlack, FenBlue  
+如果購物車中的產品次選擇 總量  小於  6 ，而且符合以下 全部  條件:  
+SKU  是	FenlightBrown, FenBrown, FenDarkBrown, FenBlack, FenBlue 
+應用	整個購物車給予固定金額折扣
+折扣金額 * 2199
+停止處理其他規則 不
+
+
+2018母親節特惠
+洗髮、潤絲、護髮套組
+送護髮粉100g、淡褐100g、面膜兩片、乳液隨身包兩包
+
+李芬國際2018母親節特惠組合
+購買洗髮、潤絲、護髮套組，送護髮粉100g、淡褐100g、面膜兩片、乳液隨身包兩包
+
+深層潔淨洗髮水500ml(贈精油)
+保濕柔順潤絲水600ml
+極耀滋潤護髮霜100ml
+護髮粉Fen草本植物染100g
+淡褐色Fen草本植物染100g
+綜合酵素生物纖維面膜 * 2
+緊緻亮白雪凝乳隨身包 * 2
+
+官網高雄店的預約染髮要撤掉
+另提供「到府服務」
+高雄 陳小姐 0929117966
+台中 李小姐 0905063802
+中壢 常小姐 0908289908
+龍潭 黃小姐 0973301865
+
+>>>>>> temp
+身體髮膚受之父母，現在李芬國際提供您照顧媽媽髮膚的母親節特惠組合，優惠到五月底
+
+方案一：購買深層潔淨洗髮水、保濕柔順潤絲水、極耀滋潤護髮霜套組，送護髮粉Fen草本植物染100g、淡褐色Fen草本植物染100g、綜合酵素生物纖維面膜兩片、緊緻亮白雪凝乳隨身包兩包
+方案二：全館相同價格買二送一
+
+滿額再加碼：單筆滿萬再送綜合酵素生物纖維面膜一片，滿兩萬送兩片，依此類推
+<<<<<<
+
+********** final
+母親節優惠快報！
+
+身體髮膚受之父母，李芬國際幫助您照顧媽媽髮膚。外在變年輕，心情會開心。讓自己與家人都年輕健康起來
+方案一：購買深層潔淨洗髮水、保濕柔順潤絲水、極耀滋潤護髮霜套組，送護髮粉Fen草本植物染100g、淡褐色Fen草本植物染100g、綜合酵素生物纖維面膜兩片、緊緻亮白雪凝乳隨身包兩包
+方案二：全館「Fen草本植物染系列、護髮系列、保養品系列、清潔系列」相同價格買二送一
+
+滿額再加碼：單筆滿萬再送綜合酵素生物纖維面膜一片，滿兩萬送兩片，買越多送越多喔
+<<<<<<< HEAD
+https://www.leefenint.com/
+=======
+https://www.leefenint.com/
+********
+>>>>>>> cf45f7ce2d0a5acf2fec851321ddfdbaac087ab7
