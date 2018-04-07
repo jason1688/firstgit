@@ -96,7 +96,9 @@ SKU  是	FenlightBrown, FenBrown, FenDarkBrown, FenBlack, FenBlue
 方案二：全館「Fen草本植物染系列、護髮系列、保養品系列、清潔系列」相同價格買二送一
 
 滿額再加碼：單筆滿萬再送綜合酵素生物纖維面膜一片，滿兩萬送兩片，買越多送越多喔
+
 https://www.leefenint.com/
+<<<<<<< HEAD
 **********
 >>>>>>> cf45f7ce2d0a5acf2fec851321ddfdbaac087ab7
 =======
