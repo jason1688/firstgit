@@ -915,7 +915,7 @@ a {
   .landing_header_left {
     left: 10px; }
   .landing_header_left img {
-    /* height: 20px;  Jason 2018-04-08 */} }
+    height: 20px; } }
 
 /*general mobile*/
 @media (max-width: 425px) {
