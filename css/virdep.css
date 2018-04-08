@@ -26,7 +26,10 @@ html {
     height: auto;
 }
 
-
+#select-language{
+    color: red;
+    font-size: 36px;
+}
 
 
 
